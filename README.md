@@ -1,6 +1,6 @@
 # LiteAFNet
 Lightweight Attentional Feedback Networks
-Dataset: https://www.kaggle.com/datasets/jiaxiyang116/cityscape
+
 LiteAFNet Structure
 
 Visualization Results:
